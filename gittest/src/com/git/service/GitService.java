@@ -1,7 +1,7 @@
 package com.git.service;
 
 public class GitService {
-	public void searchName() {
+	public void checkTest() {
 		
 	}
 }
